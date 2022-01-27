@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T19:39:12.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Gbq3owOhZcK7vAlv60mm" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T19:39:36.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="2p6rO33aIytwajZDUOoo" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1694" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,19 +93,11 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="Business" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1259" y="389" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-61" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404.5" y="389.7142857142858" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-62" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="219" y="350" width="50" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Projekt 2 AIS Orliński, Kluczyński, Luks, Gałecki" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6KLAy7FrQVatY3UB34hU-1" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.interface;rotation=-181;" vertex="1" parent="1">
-          <mxGeometry x="318" y="352.5" width="96" height="70" as="geometry" />
+        <mxCell id="ahO0reWsOxemJVcqF28U-2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="220" y="361.5" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
