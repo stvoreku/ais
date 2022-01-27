@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T20:04:01.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="9mEH7PdUja3_Cd3iSLEj" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T20:07:36.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="-dqWn7mEBarZ9zQGpwiO" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1694" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDqooe8akNY8QWwYRYU--2" value="Dział utrzymania i wsparcia" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="600" y="361.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="679" y="361.5" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
