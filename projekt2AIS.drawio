@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T20:32:15.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="JgSWSiO71lSjfekHQed0" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T20:32:47.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Vf2llCImdE14agaCqG5y" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,9 @@
             <mxPoint x="680" y="560" as="sourcePoint" />
             <mxPoint x="410" y="585" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3JpYIU6iF7PeZoeOgeua-10" value="Centrum autoryzacji" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="995" y="542.5" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
