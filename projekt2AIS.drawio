@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T19:22:16.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="lL1qd9KI0zQEt-TEjalQ" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T19:22:34.758Z" agent="5.0 (Windows)" etag="Q3Ccp1EAZCRoMgjLs3Ho" version="15.7.3" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,8 +126,11 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jFJ6rMS_uW2RliNzHTtf-1" value="DZIAŁA GIT" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;" vertex="1" parent="1">
+        <mxCell id="jFJ6rMS_uW2RliNzHTtf-1" value="DZIAŁA GIT" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.component;" parent="1" vertex="1">
           <mxGeometry x="595" y="200" width="70" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="uIT-39eKKlR7X_Mw4C0i-1" value="DZIALA LETS GO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="585" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
