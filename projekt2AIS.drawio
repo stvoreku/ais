@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T19:42:53.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="j4i8ZR0TGdSDuj9MIXly" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T19:58:42.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="xYJP5_sjpIRXi7vg2vNp" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1694" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,13 @@
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ahO0reWsOxemJVcqF28U-2" value="Dostawca Energii" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="220" y="361.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="264" y="361.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="sXgIXgti2kUsKpQdPlrc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.096;entryY=0.482;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="399" as="sourcePoint" />
+            <mxPoint x="605" y="399" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -233,7 +239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yh2DA_bw9gfELSSz6UMg" name="Page-3">
-    <mxGraphModel dx="946" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EpcJO2NXrh-bqKvKhcvD-0" />
         <mxCell id="EpcJO2NXrh-bqKvKhcvD-1" parent="EpcJO2NXrh-bqKvKhcvD-0" />
