@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T20:13:58.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="p8ypZnlCr0ZJaHUtC9N0" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T20:14:46.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Jtc1vwGkCW6IOOSpzYOT" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,30 +25,30 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Projekt 2 AIS Orliński, Kluczyński, Luks, Gałecki" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ahO0reWsOxemJVcqF28U-2" value="Dostawca Energii" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" parent="1" vertex="1">
+        <mxCell id="ahO0reWsOxemJVcqF28U-2" value="Dostawca Energii" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="240" y="359.75" width="164" height="78.5" as="geometry" />
         </mxCell>
-        <mxCell id="sXgIXgti2kUsKpQdPlrc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.096;entryY=0.482;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="sXgIXgti2kUsKpQdPlrc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.096;entryY=0.482;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="605" y="399" as="sourcePoint" />
             <mxPoint x="605" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDqooe8akNY8QWwYRYU--1" value="Czujnik zliczający zużycie" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" parent="1" vertex="1">
-          <mxGeometry x="220" y="850" width="130" height="105" as="geometry" />
+        <mxCell id="UDqooe8akNY8QWwYRYU--1" value="Czujnik zliczający zużycie" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
+          <mxGeometry x="230" y="840" width="130" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="hEa76QFGbj3jHGmWLN7--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ahO0reWsOxemJVcqF28U-2" edge="1">
+        <mxCell id="hEa76QFGbj3jHGmWLN7--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ahO0reWsOxemJVcqF28U-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="679" y="399" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hEa76QFGbj3jHGmWLN7--2" value="Sieć LORA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" parent="1" vertex="1">
-          <mxGeometry x="490" y="782.5" width="150" height="75" as="geometry" />
+        <mxCell id="hEa76QFGbj3jHGmWLN7--2" value="Sieć LORA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="440" y="782.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="hEa76QFGbj3jHGmWLN7--3" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=device;" parent="1" vertex="1">
+        <mxCell id="hEa76QFGbj3jHGmWLN7--3" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=device;" vertex="1" parent="1">
           <mxGeometry x="910" y="730" width="235" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zWt8OADcYcb-By7h7sfL-1" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate.application;appType=collab" parent="1" vertex="1">
+        <mxCell id="zWt8OADcYcb-By7h7sfL-1" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate.application;appType=collab" vertex="1" parent="1">
           <mxGeometry x="680" y="363.25" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Pn6sv-jZIRJr2TWl0VL1-1" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="hEa76QFGbj3jHGmWLN7--6" value="Aplikacja serwerowa" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="953" y="751" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hEa76QFGbj3jHGmWLN7--7" value="Internet" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="680" y="782" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
