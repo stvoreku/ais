@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T20:20:28.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="AIkDwbfGDklfwZ-Q-fWh" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T20:20:37.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Mwa5mHQnsFvtL0pXIMIB" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
           <mxGeometry x="680" y="782" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="i2HI3AU6_ezezdbmoYic-7" value="Czujnik" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
-          <mxGeometry x="270" y="820" width="80" height="65" as="geometry" />
+          <mxGeometry x="260" y="750" width="130" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
