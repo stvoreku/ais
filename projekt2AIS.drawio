@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T20:27:41.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="W8pQCMKDFIaqH-QRmo9K" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T20:28:46.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="wyrVd76IqlKtG-eiCkl-" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,6 +74,18 @@
         </mxCell>
         <mxCell id="3JpYIU6iF7PeZoeOgeua-2" value="Centrum utrzymania i kontaktu z klientem" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="677" y="359.75" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="HsC3shXNEtFI_rHiH_Du-1" value="" style="html=1;endArrow=diamondThin;endFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;endSize=10;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hEa76QFGbj3jHGmWLN7--2" target="i2HI3AU6_ezezdbmoYic-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="710" as="sourcePoint" />
+            <mxPoint x="470" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsC3shXNEtFI_rHiH_Du-2" value="" style="html=1;endArrow=diamondThin;endFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;endSize=10;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="680" y="820" as="sourcePoint" />
+            <mxPoint x="619" y="819.8314285714284" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
