@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T20:10:58.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="7AO0DhhzC5KgS3r4tsgQ" version="16.4.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-27T20:12:34.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="-w1KgJNBXPVFtHTZykHp" version="16.4.11" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1694" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,10 +46,16 @@
           <mxGeometry x="490" y="782.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="hEa76QFGbj3jHGmWLN7--3" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=device;" vertex="1" parent="1">
-          <mxGeometry x="978" y="730" width="167" height="180" as="geometry" />
+          <mxGeometry x="910" y="730" width="235" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zWt8OADcYcb-By7h7sfL-1" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate.application;appType=collab" vertex="1" parent="1">
           <mxGeometry x="680" y="363.25" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hEa76QFGbj3jHGmWLN7--5" value="Baza danych" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="953" y="840" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hEa76QFGbj3jHGmWLN7--6" value="Aplikacja serwerowa" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="953" y="751" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
